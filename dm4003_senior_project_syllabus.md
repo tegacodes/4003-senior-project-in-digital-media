@@ -10,8 +10,8 @@
 
 #####Gitbook Repository: https://tegabrain.gitbooks.io/4003-senior-project-in-digital-media/content/
 
-#####Course Management Site: http://bxmc.slack.com 
-
+#####Course Management Site: http://senior-project-17.slack.com 
+#####Join the [slack channel here.](https://join.slack.com/t/senior-project-17/shared_invite/MjM2MDMwMDYyNDMzLTE1MDQ2Mzg2MjctY2IzZTAwNzg4NQ)
 ---
 
 *“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
@@ -21,7 +21,8 @@
 
 ## Welcome to Senior Project In Digital Media!
 
-**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
+**What is Senior Project in Digital Media?**   
+Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
 
 The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs.
 
