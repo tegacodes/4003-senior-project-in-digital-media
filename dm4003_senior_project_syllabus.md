@@ -34,10 +34,10 @@ The Senior Project can take many forms, including but not limited to the followi
 * a physical object, musical instrument, physical game, or interactive installation
 * a performance or event,
 * a moving image (animation, film, motion graphics, video web series, etc.)
-audio (podcast, etc.)
-* print medium
+audio (podcast, sound walk etc.)
+* print medium (images, posters, zines, etc.)
 
-The Senior Project **can also be a team-based project** if your teammate is also taking this semester of Senior Project.
+The Senior Project **can also be a team-based project** but your teammate is also taking this semester of Senior Project.
 
 ## Your Commitment to Senior Project
 Excerpt from the book *Anything You Want* by Derek Sivers
@@ -52,7 +52,7 @@ Excerpt from the book *Anything You Want* by Derek Sivers
 How are you currently feeling about your Senior Project? 
 * Yes. 
 * Hell Yeah! or 
-* No:( 
+* Oh no:( 
 
 If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
 
@@ -93,31 +93,30 @@ Students are expected to be on time for all meetings, critiques, and presentatio
 
 This class will consist of 
 * **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
-Individual meetings are not optional. They are important and useful. Sometimes
-they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
+Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that and help you to plan out your next steps. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
 * **Class critiques**<br>
 
      Each presentation will consist of 
      * 10 minutes of presentation and 
      * 10 minutes of critique 
-     (or a combination thereof)
-     for 20 minutes total. 
+     (or a combination thereof) for 20 minutes total. 
 
-It is the responsibility of each senior to invite an outside critic to at least one of their project critiques. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, <strong>documented</strong> meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
+It is the responsibility of each senior to invite **an outside critic** to at least one of their project critiques. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one-on-one, <strong>documented</strong> meeting (date, time, length, and typed notes) with the outside critic could substitute for their presence at a project critique. You also should have the outside critic email me to confirm that they met with you.
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least one classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged (i.e. Close your laptops and stow your cellphones)
 * Give Feedback to your classmates
-* Do NOT take feedback personally.
+* Do NOT take feedback personally, crits are about making the project better.
 
 Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Direct message deangela on Slack about logistics (when, where, how many?) ONLY
+* Direct message Tega on Slack about logistics ONLY
+ (so questions on when, where, how many?) 
 * Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
