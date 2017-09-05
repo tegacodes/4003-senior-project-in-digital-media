@@ -15,4 +15,5 @@
 * [Storytelling Exercise](storytelling_exercise.md)
 * [Research Assignment](research_assignment.md)
 * [Recommended Resources](recommended_resources.md)
+* [Individual Check In Schedule](individual-check-in-schedule.md)
 
