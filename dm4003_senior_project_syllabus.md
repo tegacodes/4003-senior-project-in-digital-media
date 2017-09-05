@@ -3,12 +3,12 @@
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2016 
+    Tega Brain • brain@nyu.edu • Fall 2017 
     Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
+    Office: MAGNET 884   
 
-#####Gitbook Repository: https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content/
+#####Gitbook Repository: https://tegabrain.gitbooks.io/4003-senior-project-in-digital-media/content/
 
 #####Course Management Site: http://bxmc.slack.com 
 
