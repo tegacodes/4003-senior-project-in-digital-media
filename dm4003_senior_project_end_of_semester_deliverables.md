@@ -1,5 +1,5 @@
 ### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
+##### Fall 2017 • Tega Brain • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
 
@@ -13,7 +13,7 @@ This should be compiled using **Adobe InDesign**.
 
 ### First and Second Drafts
 *Direct message to deangela as a pdf*
-* Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
+* Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. tbrain_senior_fl17_1stdraft.pdf and tbrain_senior_fl17_2nddraft.pdf)
 
 #### Final Version
 * Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
@@ -27,7 +27,7 @@ PDF Cover:
 * Your Logo
 * The Name of Your Project
 * Senior Project in Digital Media
-* Spring 2016
+* Fall 2017
 
 I would use the [project plan](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and proejct presentations for content.
  
