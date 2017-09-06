@@ -22,7 +22,7 @@
     </ul></td>    
 </tr>
 <tr>
-    <td>Wk 1 Wed, Jan 27</td>
+    <td>Wk 1 Wed, Sept 6th</td>
     <td>
         <ul>
         
@@ -45,7 +45,7 @@
 </td>  
 </tr>
 <tr>
-    <td>Wk 2 Wed, Feb 03</td>
+    <td>Wk 2 Wed, Sep 13th</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>

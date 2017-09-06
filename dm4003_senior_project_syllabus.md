@@ -92,8 +92,8 @@ By the end of the course, students will be able to develop, complete, and docume
 Students are expected to be on time for all meetings, critiques, and presentations. 
 
 This class will consist of 
-* **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
-Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that and help you to plan out your next steps. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
+* **Individual Meetings**<br>The order of our, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
+Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that and help you to plan out your next steps. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time. The [appointment schedule is here.](https://docs.google.com/document/d/1XGd5BcJYWdOOvrGdsp6Owv3RAlgqZlqPppjUl9N5dqo/edit?usp=sharing)
 * **Class critiques**<br>
 
      Each presentation will consist of 
@@ -115,18 +115,17 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Direct message Tega on Slack about logistics ONLY
- (so questions on when, where, how many?) 
+* Direct message Tega on Slack about logistics (so questions on when, where, how many?). Please do not email, you will get a quicker response from me here. 
 * Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to the weekly project critique on Wednesdays and your individual meetings on time. 
+* Come to the project critiques on Wednesdays and your individual meetings on time. 
 * Participate in project critiques and discussions. Be vocal.
 * Consult slack at least once a week for up to date info
-* Maintain a weekly, dedicated, project website
+* Maintain a weekly, dedicated, project website where you will post your weekly progress
 * **Back up your work constantly** 
 * Complete all deliverables by their due dates
 * Action – do your absolute best
@@ -207,21 +206,21 @@ If you are student with a disability who is requesting accommodations, please co
 
 
 ### PRINTED ASSIGNMENTS
-Any printed assignments should always contain the following info, be saved as a pdf, and contain your name in the filename: 
+Your printed submissions should always contain the following info, be saved as a pdf, and contain your name in the filename: 
 
 * Date
 * Your first and last name
 * DM 4003 Senior Project in Digital Media
-* Spring 2016
-* Duff
+* Fall 2017
+* Brain
 * Title of project or assignment
 
 **File Naming**
 All PDFs should be labeled as follows:
-* Firstname_Lastname_assignmentName_date.pdf (de_angela_duff_resume_2016jan03.pdf)
+* Firstname_Lastname_assignmentName_date.pdf (tega_brain_resume_2017oct03.pdf)
 
 All REVISED DOCS should be labeled as follows:
-* Firstname_Lastname_assignmentName#_date.pdf (de_angela_duff_resume2_2016feb27.pdf)
+* Firstname_Lastname_assignmen7Name#_date.pdf (tega_brain_resume2_2017nova5.pdf)
 
 
 ### ADDITIONAL INFO REGARDING PRINTING
@@ -240,7 +239,8 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Analog or Digital Calendar
 * [Personal Kanban](http://www.personalkanban.com)
 * [RescueTime](http://rescuetime.com) (optional)
-* [Zapier](http://zapier.com) (optional)
+* [Self Control] (https://selfcontrolapp.com/)(optional but highly recommended)
+* [IFFT](https://ifttt.com/) (optional)
 
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
