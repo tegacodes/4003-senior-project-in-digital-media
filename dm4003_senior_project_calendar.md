@@ -12,15 +12,7 @@
     <i>by or before</i></td>
     <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
 </tr>
-<tr>
-    <td>Before Class Begins</td>
-    <td>
-    <ul>
-    <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    
-    <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
-    </ul></td>    
-</tr>
+
 <tr>
     <td>Wk 1 Wed, Sept 6th</td>
     <td>
@@ -49,6 +41,9 @@
     <td>Wk 2 Wed, Sep 13th</td>
     <td><strong>Homework</strong>
     <ul>
+    <ul>
+<li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs.</li>
+<li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (direct message to deangela.)</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
