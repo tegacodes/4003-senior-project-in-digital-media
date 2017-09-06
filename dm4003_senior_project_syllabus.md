@@ -39,27 +39,6 @@ audio (podcast, sound walk etc.)
 
 The Senior Project **can also be a team-based project** but your teammate is also taking this semester of Senior Project.
 
-## Your Commitment to Senior Project
-Excerpt from the book *Anything You Want* by Derek Sivers
-
-     No “yes.” 
-     Either “HELL YEAH!” or “no.”
-     If you’re not saying “HELL YEAH!” about something, say “no.” 
-     When deciding whether to do something, if you feel anything less than 
-     “Wow! That would be amazing! Absolutely! Hell yeah!”
-     —then say “no.” 
-
-How are you currently feeling about your Senior Project? 
-* Yes. 
-* Hell Yeah! or 
-* Oh no:( 
-
-If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
-
-Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
-
-Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow class mates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
-
 
 ### PROGRAM GOALS
 
@@ -89,10 +68,18 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### COURSE STRUCTURE
 
+This class will consist of:
+* Workshops
+* Group Discussion
+* Individual Meetings
+* In-class Peer Critiques
+* Project Presentations and Critique
+
 Students are expected to be on time for all meetings, critiques, and presentations. 
 
-This class will consist of 
-* **Individual Meetings**<br>The order of our, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
+Notes on some of these sessions:
+  
+* **Individual Meetings**<br>The order of our, individual 15 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that and help you to plan out your next steps. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time. The [appointment schedule is here.](https://docs.google.com/document/d/1XGd5BcJYWdOOvrGdsp6Owv3RAlgqZlqPppjUl9N5dqo/edit?usp=sharing)
 * **Class critiques**<br>
 
