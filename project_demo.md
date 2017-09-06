@@ -1,6 +1,6 @@
 ### DM-UY 4003 Senior Project in Digital Media
 
-##### Spring 2017 • Tega Brain • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811
+##### Fall 2017 • Tega Brain • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811
 
 # Project Demo / Presentation
 
@@ -11,7 +11,7 @@ Project Demo or Project Presentations will be held on designated Wednesdays, and
  * 10 minutes of demo and 
  * 10 minutes of critique 
  (or a combination thereof)
- for 20 minutes total. 
+ for 20 minutes total.
 ```
 
 You are encouraged to invite an outside critic to your project demo or project presentation. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.
@@ -37,7 +37,7 @@ Rules of the Critique:
 
 ### Be prepared to discuss the following for your Project Demo
 
-From Stephanie Houde and Charles Hill's _What do Prototypes prototype?_, prototypes provide a means to   
+From Stephanie Houde and Charles Hill's _What do Prototypes prototype?_, prototypes provide a means to  
 examine design problems.
 
 * What does \(and does not\) your prototype explore?
