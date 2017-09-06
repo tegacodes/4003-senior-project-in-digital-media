@@ -27,6 +27,7 @@
         <ul>
         
         <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
+        <li>Schedule individual meeting times</li>
         <li>Discuss brainstorming techniques for coming up with your senior project idea:
             <ul>
             <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> (Example pinned on Slack)</li>
