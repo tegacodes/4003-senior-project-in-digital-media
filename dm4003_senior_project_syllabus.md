@@ -37,7 +37,7 @@ The Senior Project can take many forms, including but not limited to the followi
 * a performance or event,
 * a moving image (animation, film, motion graphics, video web series, etc.)
 audio (podcast, sound walk etc.)
-* print medium (images, posters, zines, etc.)
+* print medium (posters, zines, etc.)
 
 The Senior Project **can also be a team-based project** but your teammate is also taking this semester of Senior Project.
 
@@ -152,7 +152,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 21% Senior Project – Gold Version 
 * 14% Weekly Progress: Project Milestones (aka what have you done this week?) on your [project website](dm4003_senior_project_website.md) and calendar 
 * 10% Project Critique Presentations
-* 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
+* 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume and Cover Letter.
 * 05% [End of Semester Public Presentation](dm4003_senior_project_end_of_semester_deliverables.md)
 * 05% Outside Critique
 * 05% Midterm Self Assessment Rubric
